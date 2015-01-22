@@ -1,0 +1,5 @@
+#ignore IDE files
+.idea/
+out/
+pairtree-subsetter.iml
+src/META-INF/
